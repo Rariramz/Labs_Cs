@@ -42,6 +42,7 @@ namespace lab1_Csharp
                     consoleMatrix2.FillMatrix();
                     matrix1 = new Matrix(consoleMatrix1.GetMatrixFromConsole());
                     matrix2 = new Matrix(consoleMatrix2.GetMatrixFromConsole());
+                    Console.Clear();
 
                     switch (ans)
                     {
@@ -100,6 +101,7 @@ namespace lab1_Csharp
                     consoleMatrix1.SetSize();
                     consoleMatrix1.FillMatrix();
                     matrix1 = new Matrix(consoleMatrix1.GetMatrixFromConsole());
+                    Console.Clear();
 
                     switch (ans)
                     {
