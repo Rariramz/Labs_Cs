@@ -1,18 +1,15 @@
-﻿using System;
+using System;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace lab1_Csharp
 {
-    class MatrixFromConsole
+    static class MatrixFromConsole
     {
-        private int rows, cols;
-        private int[,] array;
-        public MatrixFromConsole()
+        public static int[,] GetNewMatrix()
         {
-        }
-        public void SetSize()
-        {
+            int rows = 0, cols = 0;
+
             while (rows <= 0)                 //Ввод числа строк и столбцов матрицы с проверкой на положительное число
             {
                 try
@@ -41,12 +38,9 @@ namespace lab1_Csharp
                     Console.WriteLine("Wrong input! Try again, please :)");
                 }
             }
-        }
 
-        public void FillMatrix()
-        {
-         array = new int[rows, cols];
-         bool matrixIsFull = false;
+            int[,] array = new int[rows, cols];
+            bool matrixIsFull = false;
 
             Console.WriteLine("Enter matrix elements");                 //Ввод элементов матрицы с проверкой на числа
             while (!matrixIsFull)
@@ -85,10 +79,6 @@ namespace lab1_Csharp
                 Console.WriteLine("Wrong input! Try again, please :)");
                 }
             }
-        }
-
-        public int[,] GetMatrixFromConsole()
-        {
             return array;
         }
         public static void PrintMatrix(Matrix array)
