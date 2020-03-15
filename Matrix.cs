@@ -38,7 +38,6 @@ namespace lab1_Csharp
         }
         public static Matrix operator +(Matrix matrix1, Matrix matrix2)        //Сложение матриц
         {
-            Console.Clear();
             Matrix matrix3 = new Matrix(matrix1.rows, matrix2.cols);
             if (matrix1.rows != matrix2.rows || matrix1.cols != matrix2.cols)
                 throw new Exception();
@@ -54,7 +53,6 @@ namespace lab1_Csharp
         }
         public static Matrix operator -(Matrix matrix1, Matrix matrix2)           //Вычитание матриц
         {
-            Console.Clear();
             Matrix matrix3 = new Matrix(matrix1.rows, matrix2.cols);
             if (matrix1.rows != matrix2.rows || matrix1.cols != matrix2.cols)
                 throw new Exception();
@@ -70,7 +68,6 @@ namespace lab1_Csharp
         }
         public static Matrix operator *(Matrix matrix1, Matrix matrix2)           //Перемножение матриц
         {
-            Console.Clear();
             Matrix matrix3 = new Matrix(matrix1.rows, matrix2.cols);
             if (matrix1.cols != matrix2.rows)
                 throw new Exception();
@@ -102,7 +99,6 @@ namespace lab1_Csharp
         }
         public static Matrix GetTransposeMatrix(Matrix matrix1)           //Транспонирование квадратной матрицы
         {
-            Console.Clear();
             Matrix matrix3 = new Matrix(matrix1.cols, matrix1.rows);
 
             if (matrix1.rows != matrix1.cols)
