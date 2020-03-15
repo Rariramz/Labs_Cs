@@ -11,8 +11,6 @@ namespace lab1_Csharp
             while (true)
             {
                 int ans = 0;
-                MatrixFromConsole consoleMatrix1 = new MatrixFromConsole();
-                MatrixFromConsole consoleMatrix2 = new MatrixFromConsole();
                 Matrix matrix1, matrix2, matrix3;
 
                 MatrixFromConsole.ShowMenuOfMatrixOperations();            //Выбор опции
@@ -36,12 +34,8 @@ namespace lab1_Csharp
 
                 if (ans != 3 && ans != 5 && ans != 6)        //операции с двумя матрицами
                 {
-                    consoleMatrix1.SetSize();
-                    consoleMatrix1.FillMatrix();
-                    consoleMatrix2.SetSize();
-                    consoleMatrix2.FillMatrix();
-                    matrix1 = new Matrix(consoleMatrix1.GetMatrixFromConsole());
-                    matrix2 = new Matrix(consoleMatrix2.GetMatrixFromConsole());
+                    matrix1 = new Matrix(MatrixFromConsole.GetNewMatrix());
+                    matrix2 = new Matrix(MatrixFromConsole.GetNewMatrix());
                     Console.Clear();
 
                     switch (ans)
@@ -98,9 +92,7 @@ namespace lab1_Csharp
                 }
                 else if (ans != 6)                          //операции с одной матрицей
                 {
-                    consoleMatrix1.SetSize();
-                    consoleMatrix1.FillMatrix();
-                    matrix1 = new Matrix(consoleMatrix1.GetMatrixFromConsole());
+                    matrix1 = new Matrix(MatrixFromConsole.GetNewMatrix());
                     Console.Clear();
 
                     switch (ans)
