@@ -1,0 +1,18 @@
+D:\лабораторные 2 сем\C#\lab1_Csharp\bin\Debug\lab1_Csharp.exe.config
+D:\лабораторные 2 сем\C#\lab1_Csharp\bin\Debug\lab1_Csharp.exe
+D:\лабораторные 2 сем\C#\lab1_Csharp\bin\Debug\lab1_Csharp.pdb
+D:\лабораторные 2 сем\C#\lab1_Csharp\obj\Debug\lab1_Csharp.csprojAssemblyReference.cache
+D:\лабораторные 2 сем\C#\lab1_Csharp\obj\Debug\lab1_Csharp.exe
+D:\лабораторные 2 сем\C#\lab1_Csharp\obj\Debug\lab1_Csharp.pdb
+D:\лабораторные 2 сем\lab1_Csharp\bin\Debug\lab1_Csharp.exe.config
+D:\лабораторные 2 сем\lab1_Csharp\bin\Debug\lab1_Csharp.exe
+D:\лабораторные 2 сем\lab1_Csharp\bin\Debug\lab1_Csharp.pdb
+D:\лабораторные 2 сем\lab1_Csharp\obj\Debug\lab1_Csharp.csprojAssemblyReference.cache
+D:\лабораторные 2 сем\lab1_Csharp\obj\Debug\lab1_Csharp.exe
+D:\лабораторные 2 сем\lab1_Csharp\obj\Debug\lab1_Csharp.pdb
+D:\labs2sem\lab1_Csharp\bin\Debug\lab1_Csharp.exe.config
+D:\labs2sem\lab1_Csharp\bin\Debug\lab1_Csharp.exe
+D:\labs2sem\lab1_Csharp\bin\Debug\lab1_Csharp.pdb
+D:\labs2sem\lab1_Csharp\obj\Debug\lab1_Csharp.csprojAssemblyReference.cache
+D:\labs2sem\lab1_Csharp\obj\Debug\lab1_Csharp.exe
+D:\labs2sem\lab1_Csharp\obj\Debug\lab1_Csharp.pdb
