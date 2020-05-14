@@ -1,0 +1,12 @@
+D:\labs2sem\C#\lab4_Csharp\bin\Debug\lab4_Csharp.exe.config
+D:\labs2sem\C#\lab4_Csharp\bin\Debug\lab4_Csharp.exe
+D:\labs2sem\C#\lab4_Csharp\bin\Debug\lab4_Csharp.pdb
+D:\labs2sem\C#\lab4_Csharp\obj\Debug\lab4_Csharp.csprojAssemblyReference.cache
+D:\labs2sem\C#\lab4_Csharp\obj\Debug\lab4_Csharp.exe
+D:\labs2sem\C#\lab4_Csharp\obj\Debug\lab4_Csharp.pdb
+D:\labs2sem\C#\lab4_Csharp\second\bin\Debug\lab4_Csharp.exe.config
+D:\labs2sem\C#\lab4_Csharp\second\bin\Debug\lab4_Csharp.exe
+D:\labs2sem\C#\lab4_Csharp\second\bin\Debug\lab4_Csharp.pdb
+D:\labs2sem\C#\lab4_Csharp\second\obj\Debug\lab4_Csharp.csprojAssemblyReference.cache
+D:\labs2sem\C#\lab4_Csharp\second\obj\Debug\lab4_Csharp.exe
+D:\labs2sem\C#\lab4_Csharp\second\obj\Debug\lab4_Csharp.pdb

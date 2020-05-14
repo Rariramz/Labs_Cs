@@ -1,0 +1,6 @@
+D:\labs2sem\C#\lab4_Csharp\first\Keylogger\bin\Debug\Keylogger.exe.config
+D:\labs2sem\C#\lab4_Csharp\first\Keylogger\bin\Debug\Keylogger.exe
+D:\labs2sem\C#\lab4_Csharp\first\Keylogger\bin\Debug\Keylogger.pdb
+D:\labs2sem\C#\lab4_Csharp\first\Keylogger\obj\Debug\Keylogger.csprojAssemblyReference.cache
+D:\labs2sem\C#\lab4_Csharp\first\Keylogger\obj\Debug\Keylogger.exe
+D:\labs2sem\C#\lab4_Csharp\first\Keylogger\obj\Debug\Keylogger.pdb
